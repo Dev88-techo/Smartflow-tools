@@ -1,3 +1,5 @@
+import "./globals.css"; // ✅ Import Tailwind styles
+
 export const metadata = {
   title: "SmartFlow Tools",
   description: "Tools that make your workflow smarter",
